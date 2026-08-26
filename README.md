@@ -1,389 +1,257 @@
-# Kaiditantrik
+# 👨‍💻 Vansh | AI Developer & Builder
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:4c1d95,100:1e1b4b&height=180&section=header&text=KAIDITANTRIK&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Product%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Python+Developer;Automation+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New+%F0%9F%94%A5" alt="Typing SVG" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Software+Engineer+in+Progress;AI%2FML+%7C+Full+Stack+%7C+Automation;Building+Products+with+Code+%26+Curiosity;Engineering+Ideas+Into+Real+Systems" alt="Typing SVG"/>
-</a>
+<br>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Student-Class%20XII-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Science-Engineering-312E81?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-New%20Delhi-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br/><br/>
-
-<a href="https://github.com/Kaiditantrik">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:kaiditantrik@gmail.com">
-<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Kaiditantrik">
-<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Kaiditantrik&style=for-the-badge&color=4C1D95&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Kaiditantrik?style=for-the-badge&color=6D28D9&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Kaiditantrik?style=for-the-badge&color=7C3AED&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=Kaiditantrik&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## About
+## 🧠 About Me
 
-I am a software engineering-focused student building practical systems across **AI/ML, full-stack development, automation, computer vision, and developer tooling**.
+```python
+class Vansh:
 
-My approach combines engineering fundamentals with a product mindset: understand the problem, design the system, build the smallest useful version, measure it, and keep improving it.
+    name = "Vansh"
+    location = "New Delhi, India"
 
-I enjoy working at the intersection of **software engineering and artificial intelligence**, especially where models, APIs, automation, interfaces, and real-world workflows come together.
+    role = "Student & Aspiring AI Developer"
 
-### Engineering Interests
+    interests = [
+        "Artificial Intelligence",
+        "Python Development",
+        "Automation",
+        "Computer Vision",
+        "Machine Learning",
+        "Open Source"
+    ]
 
-* **Software Engineering** — scalable architecture, clean code, APIs, automation
-* **AI / ML** — computer vision, NLP, intelligent assistants, inference systems
-* **Full Stack Development** — modern frontend, backend services, databases
-* **Product Engineering** — turning ideas into usable software
-* **Developer Experience** — tooling, workflows, documentation, experimentation
+    currently_building = [
+        "AI Assistants",
+        "Automation Tools",
+        "Computer Vision Projects",
+        "Developer Utilities"
+    ]
 
-### Open To
+    mindset = "Build → Break → Debug → Improve → Repeat 🚀"
+```
 
-`Open Source` · `AI/ML Projects` · `Software Engineering` · `Research` · `Product Engineering` · `Technical Collaborations`
-
----
-
-## Tech Stack
-
-### Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css,bash&theme=dark" />
-
-</div>
-
-### Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
-
-</div>
-
-### Backend & Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql,sqlite&theme=dark" />
-
-</div>
-
-### Cloud, DevOps & Tooling
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,npm,vscode,postman&theme=dark" />
-
-</div>
+> **I don't just learn technology. I build things with it.**
 
 ---
 
-## AI / ML Expertise
+## ⚡ What I'm Working On
 
-| Domain                          | Proficiency  | Details                                                                |
-| ------------------------------- | ------------ | ---------------------------------------------------------------------- |
-| **Computer Vision**             | Advanced     | OpenCV, MediaPipe, gesture recognition, real-time vision systems       |
-| **Natural Language Processing** | Advanced     | NLP pipelines, LLM integration, conversational systems                 |
-| **AI Assistants**               | Advanced     | Voice interfaces, automation, model orchestration                      |
-| **Machine Learning**            | Intermediate | Model experimentation, inference workflows, practical ML systems       |
-| **LLM Engineering**             | Advanced     | API integration, local models, prompt-driven systems                   |
-| **Automation**                  | Advanced     | Python automation, browser workflows, system integrations              |
-| **Speech Technology**           | Intermediate | Speech recognition, TTS, hotword detection                             |
-| **AI Product Engineering**      | Advanced     | Combining models, APIs, interfaces and automation into usable products |
+* 🤖 Building **AI-powered applications**
+* 🐍 Developing projects with **Python**
+* 👁️ Experimenting with **Computer Vision**
+* ⚙️ Creating **automation tools**
+* 🧠 Learning more about **AI/ML**
+* 🚀 Improving my development skills through real-world projects
+* 🌐 Building and refining my personal developer portfolio
 
 ---
 
-## Featured Projects
+# 🛠️ Tech Stack
 
-<details>
-<summary><b>JARVIS AI Assistant</b></summary>
+### 💻 Languages
 
-<br/>
+<p align="left">
 
-A modular personal AI assistant designed around voice interaction, automation, NLP, model integration and proactive system capabilities.
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,markdown" />
 
-| Metric          | Details                                                               |
-| --------------- | --------------------------------------------------------------------- |
-| **Stack**       | Python · Speech Recognition · PyAudio · NLP · LLM APIs · Local Models |
-| **Scale**       | Modular multi-process architecture                                    |
-| **Performance** | Designed for low-latency voice interaction                            |
-| **Security**    | Local-first architecture and controlled API integrations              |
-| **Impact**      | Automation-focused personal AI platform                               |
-| **Repository**  | [JARVIS AI Assistant](https://github.com/Kaiditantrik)                |
+</p>
 
-### Engineering Scope
+### 🤖 AI / ML
 
-* Voice input and speech recognition pipeline
-* Text-to-speech integration
-* Hotword detection
-* LLM-powered conversational workflows
-* Local model experimentation
-* Automation and system-control architecture
-* Modular process orchestration
-* Extensible NLP layer
+<p align="left">
 
-</details>
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
 
-<details>
-<summary><b>Prayer Detection System</b></summary>
+</p>
 
-<br/>
+### ⚙️ Tools & Technologies
 
-A computer-vision project exploring real-time hand gesture recognition and detection of prayer-related gestures using visual landmarks.
+<p align="left">
 
-| Metric          | Details                                                              |
-| --------------- | -------------------------------------------------------------------- |
-| **Stack**       | Python · OpenCV · MediaPipe                                          |
-| **Scale**       | Real-time computer-vision prototype                                  |
-| **Performance** | Landmark-based gesture detection                                     |
-| **Security**    | Local processing architecture                                        |
-| **Impact**      | Practical application of computer vision                             |
-| **Repository**  | [Prayer Detection](https://github.com/Kaiditantrik/Prayer-detection) |
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,nodejs,npm" />
 
-### Engineering Scope
-
-* Real-time camera processing
-* Hand landmark detection
-* Gesture classification
-* Anjali Mudra / Namaste gesture recognition
-* Computer-vision pipeline experimentation
-* Python-based modular implementation
-
-</details>
-
-<details>
-<summary><b>Creative Portfolio Engineering</b></summary>
-
-<br/>
-
-A modern developer portfolio engineered around interactive presentation, responsive layouts and product-oriented visual design.
-
-| Metric          | Details                                                                      |
-| --------------- | ---------------------------------------------------------------------------- |
-| **Stack**       | Next.js · React · TypeScript · Tailwind CSS                                  |
-| **Scale**       | Production-oriented frontend architecture                                    |
-| **Performance** | Component-driven rendering and optimized assets                              |
-| **Security**    | Modern frontend dependency practices                                         |
-| **Impact**      | Professional developer identity and project showcase                         |
-| **Repository**  | [Creative Portfolio](https://github.com/PriyanshuGupta28/creative-portfolio) |
-
-### Engineering Scope
-
-* Responsive frontend architecture
-* Modern React component system
-* Interactive UI
-* Portfolio information architecture
-* Developer-focused presentation
-* GitHub-based project integration
-
-</details>
+</p>
 
 ---
 
-## Experience
+# 🚀 Featured Projects
 
-### Independent Software Engineering & AI Projects
+<table>
+<tr>
 
-**Software Engineering / AI Development**
-**2024 — Present**
+<td width="50%">
 
-Building independent software projects across artificial intelligence, automation, computer vision and full-stack development.
+### 🤖 AI Assistant
 
-#### Scope
+An experimental AI assistant focused on:
 
-* Designing and implementing Python-based AI systems
-* Experimenting with LLM providers and local inference
-* Developing computer-vision applications
-* Building responsive web interfaces
-* Integrating APIs and third-party services
-* Debugging dependency and runtime environments
-* Designing automation workflows
-* Maintaining GitHub repositories and technical documentation
+* Voice interaction
+* Automation
+* AI-powered responses
+* Computer control
+* Modular architecture
 
-**Skills:** `Python` `AI/ML` `Computer Vision` `NLP` `React` `Next.js` `TypeScript` `Git` `GitHub` `Automation`
+**Tech:** Python • AI • Automation
+
+</td>
+
+<td width="50%">
+
+### 🙏 Prayer Detection
+
+Computer vision project designed to detect prayer / Namaste-style hand gestures using camera input.
+
+**Tech:** Python • MediaPipe • OpenCV
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 Developer Portfolio
+
+A modern personal portfolio showcasing projects, skills, experiments and developer work.
+
+**Tech:** HTML • CSS • JavaScript
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Automation Experiments
+
+Various Python-based automation projects exploring APIs, system utilities, AI models and developer workflows.
+
+**Tech:** Python • APIs • Automation
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Achievements
+# 📊 GitHub Analytics
 
 <div align="center">
 
-| Recognition               | Details                                                                                   |
-| ------------------------- | ----------------------------------------------------------------------------------------- |
-| **Independent Builder**   | Built and maintained multiple AI, automation and software projects                        |
-| **Open Source**           | Published development work through GitHub                                                 |
-| **AI Engineering**        | Developed practical experiments involving NLP, computer vision and intelligent assistants |
-| **Product Development**   | Designed portfolio and software products with a product-first approach                    |
-| **Technical Exploration** | Hands-on experimentation across modern AI and full-stack technologies                     |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaiditantrik&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiditantrik&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
 ---
 
-## Certifications
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Learning%20Path-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Learning-4F46E5?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certification-312E81?style=for-the-badge&logo=nptel&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Learning-1E1B4B?style=for-the-badge&logo=cisco&logoColor=white"/>
-
----
-
-## Coding Profiles
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=Kaiditantrik&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## GitHub Analytics
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kaiditantrik&show_icons=true&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=Kaiditantrik&hide_border=true&background=0D0B1F&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiditantrik&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&text_color=CBD5E1&langs_count=8" height="180"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kaiditantrik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
 
 ---
 
-## GitHub Trophies
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kaiditantrik&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaiditantrik&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-## Contribution Activity
+# 🧩 Current Learning
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaiditantrik&bg_color=0D0B1F&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kaiditantrik/Kaiditantrik/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced Software Engineering
-  - Artificial Intelligence
-  - Machine Learning
-  - System Design
-  - Data Structures & Algorithms
-  - Cloud Architecture
-
-Building:
-  - AI-powered developer tools
-  - Intelligent automation systems
-  - Computer vision applications
-  - Full-stack products
-  - Developer portfolio infrastructure
-
-Exploring:
-  - LLM Engineering
-  - Local AI Inference
-  - Agentic Systems
-  - Computer Vision
-  - AI Product Engineering
-  - Open Source
-
-Open To:
-  - Open Source Collaboration
-  - AI/ML Projects
-  - Software Engineering Opportunities
-  - Research
-  - Product Engineering
-  - Technical Partnerships
+```text
+Python              ████████████████████  90%
+AI / ML             ████████████████░░░░  80%
+Computer Vision     ███████████████░░░░░  75%
+Automation          █████████████████░░░  85%
+Web Development     █████████████░░░░░░░  65%
+Open Source         ██████████░░░░░░░░░░  50%
 ```
 
 ---
 
-## Connect
+# 🎯 2026 Goals
+
+* [ ] Build more production-quality AI projects
+* [ ] Improve Python architecture and code quality
+* [ ] Learn advanced Machine Learning
+* [ ] Contribute to Open Source
+* [ ] Build useful developer tools
+* [ ] Publish better project documentation
+* [ ] Create projects that solve actual problems
+
+---
+
+# 💡 My Development Philosophy
+
+> **"The best way to learn programming is to build something that is slightly above your current skill level."**
+
+I believe in learning by building.
+
+Every project teaches something new:
+
+```text
+Idea
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Learn
+  ↓
+Improve
+  ↓
+Ship 🚀
+```
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
-<a href="mailto:kaiditantrik@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/Kaiditantrik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Kaiditantrik">
-<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Kaiditantrik">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -392,8 +260,8 @@ Open To:
 
 <div align="center">
 
-### “Build with purpose. Engineer with precision. Ship what matters.”
+### ⚡ Building today. Learning tomorrow. Creating the future.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:312e81&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
 
 </div>
