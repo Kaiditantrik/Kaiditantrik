@@ -1,267 +1,144 @@
-# 👨‍💻 Vansh | AI Developer & Builder
+<!-- Replace all placeholders like your-username, Your Name, etc. -->
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/your-username">Your Name</a></h1>
+<h3 align="center">A passionate Full‑Stack Developer from Earth 🌍</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Python+Developer;Automation+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New+%F0%9F%94%A5" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Kaiditantrik&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views"/>
-
-</div>
-
----
-
-## 🧠 About Me
-
-```python
-class Vansh:
-
-    name = "Vansh"
-    location = "New Delhi, India"
-
-    role = "Student & Aspiring AI Developer"
-
-    interests = [
-        "Artificial Intelligence",
-        "Python Development",
-        "Automation",
-        "Computer Vision",
-        "Machine Learning",
-        "Open Source"
-    ]
-
-    currently_building = [
-        "AI Assistants",
-        "Automation Tools",
-        "Computer Vision Projects",
-        "Developer Utilities"
-    ]
-
-    mindset = "Build → Break → Debug → Improve → Repeat 🚀"
-```
-
-> **I don't just learn technology. I build things with it.**
-
----
-
-## ⚡ What I'm Working On
-
-* 🤖 Building **AI-powered applications**
-* 🐍 Developing projects with **Python**
-* 👁️ Experimenting with **Computer Vision**
-* ⚙️ Creating **automation tools**
-* 🧠 Learning more about **AI/ML**
-* 🚀 Improving my development skills through real-world projects
-* 🌐 Building and refining my personal developer portfolio
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,markdown" />
-
+<!-- Animated typing SVG (replace text as desired) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner;Problem+Solver" alt="Typing SVG" />
+  </a>
 </p>
 
-### 🤖 AI / ML
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
-
+<!-- Social badges (replace URLs and usernames) -->
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
-### ⚙️ Tools & Technologies
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,nodejs,npm" />
-
+<!-- Profile views counter (replace your-username) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+### 🧑‍💻 About Me
 
-<table>
-<tr>
-
-<td width="50%">
-
-### 🤖 AI Assistant
-
-An experimental AI assistant focused on:
-
-* Voice interaction
-* Automation
-* AI-powered responses
-* Computer control
-* Modular architecture
-
-**Tech:** Python • AI • Automation
-
-</td>
-
-<td width="50%">
-
-### 🙏 Prayer Detection
-
-Computer vision project designed to detect prayer / Namaste-style hand gestures using camera input.
-
-**Tech:** Python • MediaPipe • OpenCV
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🌐 Developer Portfolio
-
-A modern personal portfolio showcasing projects, skills, experiments and developer work.
-
-**Tech:** HTML • CSS • JavaScript
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Automation Experiments
-
-Various Python-based automation projects exploring APIs, system utilities, AI models and developer workflows.
-
-**Tech:** Python • APIs • Automation
-
-</td>
-
-</tr>
-</table>
+- 🔭 I’m currently working on **some amazing projects**
+- 🌱 I’m currently learning **Next.js, TypeScript, and Cloud Technologies**
+- 👯 I’m looking to collaborate on **open source projects**
+- 🤔 I’m looking for help with **scaling web applications**
+- 💬 Ask me about **JavaScript, React, Node.js, or anything tech**
+- 📫 How to reach me: **your-email@example.com**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
 
 ---
 
-# 📊 GitHub Analytics
+### 🛠️ Tech Stack
 
-<div align="center">
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaiditantrik&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+#### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiditantrik&layout=compact&hide_border=true&theme=tokyonight" />
+#### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kaiditantrik&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kaiditantrik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaiditantrik&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🧩 Current Learning
-
-```text
-Python              ████████████████████  90%
-AI / ML             ████████████████░░░░  80%
-Computer Vision     ███████████████░░░░░  75%
-Automation          █████████████████░░░  85%
-Web Development     █████████████░░░░░░░  65%
-Open Source         ██████████░░░░░░░░░░  50%
-```
+#### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
 
 ---
 
-# 🎯 2026 Goals
+### 📊 GitHub Stats
 
-* [ ] Build more production-quality AI projects
-* [ ] Improve Python architecture and code quality
-* [ ] Learn advanced Machine Learning
-* [ ] Contribute to Open Source
-* [ ] Build useful developer tools
-* [ ] Publish better project documentation
-* [ ] Create projects that solve actual problems
+<!-- GitHub Stats Card (replace your-username) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
----
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-# 💡 My Development Philosophy
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+</p>
 
-> **"The best way to learn programming is to build something that is slightly above your current skill level."**
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
 
-I believe in learning by building.
-
-Every project teaches something new:
-
-```text
-Idea
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Learn
-  ↓
-Improve
-  ↓
-Ship 🚀
-```
+<!-- Activity Graph (replace your-username) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
+### 🏆 Achievements & Highlights
 
-<div align="center">
+<!-- You can list your certifications, awards, or notable projects here -->
 
-<a href="https://github.com/Kaiditantrik">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+- 🥇 **Winner** of XYZ Hackathon 2024
+- 📜 **Certified** AWS Solutions Architect
+- ⭐ **Top Contributor** to Open Source Project ABC
+- 🎓 **Bachelor's Degree** in Computer Science
 
 ---
 
-<div align="center">
+### 📝 Latest Blog Posts
 
-### ⚡ Building today. Learning tomorrow. Creating the future.
+<!-- BLOG-POST-LIST:START -->
+<!-- You can automate this section using a GitHub Action (e.g., blog-post-workflow) -->
+<!-- BLOG-POST-LIST:END -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
+- [How I built a scalable API with Node.js](https://your-blog.com/post1)
+- [Understanding React Server Components](https://your-blog.com/post2)
+- [My journey into Cloud Computing](https://your-blog.com/post3)
 
-</div>
+---
+
+### 🤝 Support Me
+
+If you like my work, consider buying me a coffee!  
+<a href="https://www.buymeacoffee.com/your-username"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
