@@ -1,216 +1,398 @@
-<!-- ============================================================
-     ⚠️  IMPORTANT: Replace all placeholders like your-username,
-     Your Name, etc. before using this README.
-     ============================================================ -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/your-username">Your Name</a></h1>
-<h3 align="center">A passionate Full‑Stack Developer from Earth 🌍</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7C3AED,100:00F7FF&height=220&section=header&text=VANSH&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20PYTHON%20%7C%20AUTOMATION%20%7C%20BUILDER&descAlignY=60&descSize=18"/>
 
-<!-- Animated typing SVG (edit the text inside lines=) -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner;Problem+Solver;ASCII+Art+Lover;Game+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Python+Developer;Automation+Enthusiast;Computer+Vision+Explorer;Building+Real-World+Projects;Turning+Ideas+Into+Code+%F0%9F%9A%80;Debugging+Since+It+Was+Cool+%F0%9F%92%80"/>
 
-<!-- Social badges (replace URLs and usernames) -->
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
+<br>
 
-<!-- Profile views counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Kaiditantrik&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🎭 My Picture as ASCII Art
+# 🧑‍💻 `whoami`
 
-<!-- 
-  ➜ HOW TO GENERATE YOUR OWN ASCII ART FROM YOUR IMAGE:
-  1. Go to https://www.asciiart.eu/image-to-ascii
-     or https://manytools.org/hacker-tools/convert-images-to-ascii-art/
-  2. Upload your image (the one at your local path).
-  3. Adjust settings (width ~80 characters, color off or on).
-  4. Copy the generated ASCII art.
-  5. Paste it inside the <pre> block below.
-  6. (Optional) Use a monospace font and keep it centered.
--->
-
-<p align="center">
-  <pre>
-<!-- PASTE YOUR ASCII ART HERE (replace this comment) -->
-<!-- Example (small): -->
-<!-- 
-  .-.
- (o o)
- | O \
-  \   \
-   `~~~'
--->
-  </pre>
-</p>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                         VANSH                                ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  📍 Location       : New Delhi, India                        ║
+║  🎓 Role           : Student & Aspiring AI Developer         ║
+║  🐍 Main Language  : Python                                  ║
+║  🤖 Focus          : Artificial Intelligence                 ║
+║  ⚙️  Side Quest     : Automation                              ║
+║  👁️  Vision         : Computer Vision                         ║
+║  🚀 Philosophy     : Build → Break → Debug → Improve         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 🕹️ Interactive Game: "Choose Your Adventure"
+# 🖼️ `./profile`
 
-<!-- 
-  This is a simple interactive text game built with HTML <details>.
-  It works inside GitHub README because GitHub allows <details> tags.
-  You can expand the sections by clicking.
-  Replace the story with your own if you like.
--->
+<div align="center">
 
-<details>
-  <summary><b>🏁 Start Game: You wake up in a mysterious forest...</b></summary>
-  
-  You see two paths:
-  
-  <details>
-    <summary><b>🌲 Go left (into the dark woods)</b></summary>
-    You walk deeper and find a glowing chest.  
-    <details>
-      <summary><b>🔓 Open the chest</b></summary>
-      🎉 You found a treasure! You win! 🎉
-    </details>
-    <details>
-      <summary><b>🚫 Ignore the chest and keep walking</b></summary>
-      You get lost and meet a friendly wolf who guides you home.  
-      🐺 "Thanks, wolf!" The end.
-    </details>
-  </details>
-  
-  <details>
-    <summary><b>🏔️ Go right (towards the mountain)</b></summary>
-    You climb up and see a dragon sleeping.  
-    <details>
-      <summary><b>🐉 Try to sneak past the dragon</b></summary>
-      The dragon wakes up, but turns out to be friendly!  
-      🐲 "Want to fly?" You ride the dragon into the sunset. The end.
-    </details>
-    <details>
-      <summary><b>🏃 Run back down the mountain</b></summary>
-      You slip but land safely in a pile of leaves.  
-      🍂 You decide to go home and have a hot chocolate. The end.
-    </details>
-  </details>
-</details>
+```text
+                              .-=========-.
+                           .-===============-.
+                         .-===================-.
+                        -=======================-
+                       -=========================-
+                      -===========================-
+                     -=============================
+                    -===============================-
+                   -================================-
+                  -==================================
+                 -===================================
+                -====================================
+               -=====================================
+              -======================================
+             -=======================================
+            -========================================
+           -=========================================
+          -==========================================
+         -===========================================
+        -============================================
+       -=============================================
+      -==============================================
+     -===============================================
+    -================================================
+   -=================================================
+  -==================================================
+ -===================================================
+=====================================================
+```
 
-<p align="center">
-  <i>Click the arrows to expand and play! 🎮</i>
-</p>
+</div>
+
+> **Note:** `assets/profile.png` contains the original profile artwork.
+> The ASCII section above is intentionally lightweight so GitHub doesn't turn the profile into a 14,000-line terminal crime scene.
 
 ---
 
-## 🧑‍💻 About Me
+# ⚡ `SYSTEM STATUS`
 
-- 🔭 I’m currently working on **some amazing projects**
-- 🌱 I’m currently learning **Next.js, TypeScript, and Cloud Technologies**
-- 👯 I’m looking to collaborate on **open source projects**
-- 🤔 I’m looking for help with **scaling web applications**
-- 💬 Ask me about **JavaScript, React, Node.js, or anything tech**
-- 📫 How to reach me: **your-email@example.com**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
+```text
+┌────────────────────────────────────────────────────────────┐
+│                    VANSH DEVELOPMENT OS                    │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  [████████████████████] Python              ONLINE         │
+│  [███████████████████░] AI / ML             BUILDING       │
+│  [██████████████████░░] Automation          ONLINE         │
+│  [█████████████████░░░] Computer Vision     LEARNING       │
+│  [███████████████░░░░░] Web Development     BUILDING       │
+│  [██████████████░░░░░░] Open Source         EXPLORING      │
+│                                                            │
+├────────────────────────────────────────────────────────────┤
+│ STATUS : BUILDING SOMETHING COOL...                       │
+└────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 `ABOUT ME`
+
+I'm a student developer from **New Delhi, India**, interested in building practical software with AI, Python and automation.
+
+### Currently exploring
+
+* 🤖 Artificial Intelligence
+* 🐍 Python Development
+* ⚙️ Automation
+* 👁️ Computer Vision
+* 🧠 Machine Learning
+* 🌐 Web Development
+* 🔧 Developer Tools
+* 🌍 Open Source
+
+My preferred development cycle:
+
+```python
+while True:
+
+    idea = get_idea()
+
+    project = build(idea)
+
+    error = debug(project)
+
+    knowledge = learn(error)
+
+    improve(project, knowledge)
+
+    ship(project)
+```
+
+---
+
+# 🛠️ `TECH STACK`
+
+<div align="center">
 
 ### Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,markdown"/>
 
-### Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+<br><br>
+
+### AI • ML • Computer Vision
+
+<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch"/>
+
+<br><br>
 
 ### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,nodejs,npm"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 `FEATURED PROJECTS`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+<table>
+<tr>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
+## 🤖 AI Assistant
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
+A modular AI assistant project exploring voice interaction, automation, AI responses and system control.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
+**Built with**
+
+`Python` `AI` `Automation`
+
+</td>
+
+<td width="50%">
+
+## 🙏 Prayer Detection
+
+A computer vision project for detecting prayer / Namaste-style hand gestures through camera input.
+
+**Built with**
+
+`Python` `OpenCV` `MediaPipe`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Creative Portfolio
+
+A modern developer portfolio focused on interactive UI, projects and personal branding.
+
+**Built with**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%">
+
+## ⚙️ Automation Lab
+
+Experiments involving Python automation, APIs, system utilities and AI workflows.
+
+**Built with**
+
+`Python` `APIs` `Automation`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements & Highlights
+# 🎮 `VANSH TERMINAL QUEST`
 
-- 🥇 **Winner** of XYZ Hackathon 2024
-- 📜 **Certified** AWS Solutions Architect
-- ⭐ **Top Contributor** to Open Source Project ABC
-- 🎓 **Bachelor's Degree** in Computer Science
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║              VANSH TERMINAL QUEST                   ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  SYSTEM STATUS : ONLINE                              ║
+║  PLAYER        : DEVELOPER                           ║
+║  LEVEL         : ???                                 ║
+║  XP            : ???                                 ║
+║                                                      ║
+║  OBJECTIVE: FIND THE HIDDEN AI CORE                  ║
+║                                                      ║
+║  > scan                                            ║
+║  > search                                          ║
+║  > python                                          ║
+║  > hack                                            ║
+║                                                      ║
+║             THE SYSTEM IS WAITING...                ║
+╚══════════════════════════════════════════════════════╝
+```
+
+### 🕹️ Play the actual game
+
+<a href="https://kaiditantrik.github.io/game.html">
+
+<img src="https://img.shields.io/badge/🎮_PLAY_TERMINAL_QUEST-00F7FF?style=for-the-badge&labelColor=0D1117&color=00F7FF"/>
+
+</a>
+
+</div>
 
 ---
 
-## 📝 Latest Blog Posts
+# 📊 `GITHUB ANALYTICS`
 
-<!-- You can automate this section using a GitHub Action -->
-- [How I built a scalable API with Node.js](https://your-blog.com/post1)
-- [Understanding React Server Components](https://your-blog.com/post2)
-- [My journey into Cloud Computing](https://your-blog.com/post3)
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kaiditantrik&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
 
-## 🤝 Support Me
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiditantrik&layout=compact&hide_border=true&theme=tokyonight"/>
 
-If you like my work, consider buying me a coffee!  
-<a href="https://www.buymeacoffee.com/your-username"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+# 🔥 `CONTRIBUTION STREAK`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kaiditantrik&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 `GITHUB TROPHIES`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kaiditantrik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
+
+---
+
+# 📈 `CONTRIBUTION GRAPH`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaiditantrik&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🧪 `CURRENTLY BUILDING`
+
+```text
+╔════════════════════════════════════════════════════╗
+║                 DEVELOPMENT PIPELINE                ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  🤖 AI Assistant             ████████████████ 80%  ║
+║  ⚙️  Automation              ██████████████░░ 70%  ║
+║  👁️  Computer Vision         █████████████░░░ 65%  ║
+║  🌐 Web Development          ███████████░░░░░ 55%  ║
+║  🌍 Open Source              ████████░░░░░░░ 40%  ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🎯 `2026 MISSION`
+
+```text
+[✓] Learn Python
+[✓] Build AI experiments
+[✓] Explore Computer Vision
+[✓] Build automation projects
+
+[ ] Build production-grade AI applications
+[ ] Contribute to Open Source
+[ ] Build useful developer tools
+[ ] Improve software architecture
+[ ] Ship bigger projects
+[ ] Break fewer things
+```
+
+The last objective may require technology humanity hasn't invented yet.
+
+---
+
+# 💭 `DEVELOPER PHILOSOPHY`
+
+<div align="center">
+
+### **"Don't just consume technology. Build with it."**
+
+```text
+        IDEA
+          │
+          ▼
+        CODE
+          │
+          ▼
+        ERROR
+          │
+          ▼
+        DEBUG
+          │
+          ▼
+        LEARN
+          │
+          ▼
+       IMPROVE
+          │
+          ▼
+        SHIP 🚀
+          │
+          └──────────────► REPEAT
+```
+
+</div>
+
+---
+
+# 🌐 `CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/Kaiditantrik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=BUILDING+TODAY.;LEARNING+TOMORROW.;SHIPPING+ALWAYS.;SEE+YOU+IN+THE+CODE." />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7C3AED,100:00F7FF&height=130&section=footer"/>
+
+</div>
